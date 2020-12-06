@@ -169,4 +169,3 @@ always @ (posedge clk)
   assign ce_out = enb_1_20_1;
 
 endmodule  // CIC
-
