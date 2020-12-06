@@ -36,3 +36,4 @@ set_output_delay -clock "clk"       -max $OUTPUT_DELAY_CLK $OUTPUTPORTS_CLK
 
 #set_ideal_network [get_ports {reset}]
 #set_false_path -from [get_ports {reset}]
+
