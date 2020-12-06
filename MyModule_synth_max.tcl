@@ -32,4 +32,3 @@ write_hdl -mapped > ../Source/Synthesis/CIC_synth_max.v
 ## Write out the SDC file we will take into the place n route tool
 write_sdc > ../Source/Synthesis/CIC_out_max.sdc
 gui_show
-
