@@ -8,3 +8,4 @@ set_attribute lef_library {/Cadence/Libs/X_FAB/XKIT/xt018/cadence/v5_0/techLEF/v
 set_attribute cap_table_file /Cadence/Libs/X_FAB/XKIT/xt018/cadence/v5_0/capTbl/v5_0_1_2/xt018_xx43_MET4_METMID_METTHK_max.capTbl
 ## Setup error on blackbox
 set_attribute hdl_error_on_blackbox true
+
