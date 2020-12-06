@@ -925,4 +925,3 @@ module H5_z
   assign Out = Gain_out1;
 
 endmodule  // H5_z
-
