@@ -348,4 +348,3 @@ module CIC_tb;
     end
 
 endmodule  // CIC_tb
-
