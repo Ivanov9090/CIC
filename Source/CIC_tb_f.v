@@ -351,4 +351,3 @@ initial
     end
 
 endmodule  // CIC_tb
-
