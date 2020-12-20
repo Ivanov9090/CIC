@@ -190,4 +190,3 @@ getFillerMode -quiet
 saveNetlist ../Outputs/CIC_f -includePhysicalCell {FEED7HD FEED5HD FEED3HD FEED2HD FEED25HD FEED1HD FEED15HD FEED10HD DECAP7HD DECAP5HD DECAP3HD DECAP25HD DECAP15HD DECAP10HD}
 defOut -floorplan -netlist -routing ../Output/CIC.def
 saveDesign CIC.enc
-
