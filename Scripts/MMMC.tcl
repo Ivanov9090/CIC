@@ -40,4 +40,3 @@ create_analysis_view -name MINview -delay_corner {DELAYcornerFAST} -constraint_m
 #set_analysis_view -setup {TYPview} -hold {TYPview}
 set_analysis_view -setup {MAXview} -hold {MINview}
 
-
