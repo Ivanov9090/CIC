@@ -17,6 +17,11 @@ My first GitHub project. Digital design.
 Название файла               | Описание файла
 -----------------------------|----------------------
 CIC.v                        | Описание цифрового устройства на языке Verilog HDL, основной модуль
+CIC_synth.v                  | Netlist после синтеза устройства для typical corner
+CIC_synth_max.v              | Netlist после синтеза устройства для fast corner
+CIC_synth_min.v              | Netlist после синтеза устройства для slow corner 
+CIC.v                        | (В папке Outrut) Нетлист без филерс
+CIC_f.v                      | (В папке Outrut) Нетлист с филерс
 CIC_tc.v                     | Описание цифрового устройства на языке Verilog HDL, подмодуль.
 First_H2_z.v                 | Описание цифрового устройства на языке Verilog HDL, подмодуль, первый сабфильтр.
 Second_H2_z.v                | Описание цифрового устройства на языке Verilog HDL, подмодуль, второй сабфильтр.
